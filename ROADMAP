@@ -1,0 +1,9 @@
+#ROADMAP
+
+1. isNan falls beim Budget keine Zahlen eingegeben werden
+2. die einzelnen Seiten sollen hintereinander kommen, wie kann das möglich gemacht werden?
+3. es sollen nur die Meals angezeigt werden, die beide Kriterien (Budget, Nutrition-Plan) erfüllen
+  -> "All" Button bei Nutrtition
+  -> soll mehreres angekreuzt werden können?
+  -> mögliche Meals per alert anzeigen lassen?
+  -> falls kein Meal passend Button "See all Meals" -> Auflistung aller Meals mit Preisen
